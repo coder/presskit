@@ -4,15 +4,14 @@
 
 > "By leveraging Terraform, Coder lets developers run any IDE on any compute platform including on-prem, AWS, Azure, GCP, DigitalOcean, Kubernetes, Docker, and more, with workspaces running on Linux, Windows, or Mac." - **[Kevin Fishner](https://www.linkedin.com/in/kevinfishner) Chief of Staff at [HashiCorp](https://hashicorp.com/)**
 
-
 ## Logo
 
-| Logo | Symbol |
-|-|-|
-| ![](https://github.com/coder/presskit/blob/main/logos/coder%20logo%20transparent%20strip%20black.png?raw=true) | ![](https://github.com/coder/presskit/blob/main/logos/coder%20logo%20black%20square.png?raw=true) |
-| [PNG](https://github.com/coder/presskit/blob/main/logos/coder%20logo%20transparent%20strip%20black.png?raw=true) • [SVG](https://github.com/coder/presskit/blob/main/logos/coder%20logo%20transparent%20strip%20black.svg?raw=true) | [PNG](https://github.com/coder/presskit/blob/main/logos/coder%20logo%20black%20square.png?raw=true) • SVG |
-| ![](https://github.com/coder/presskit/blob/main/logos/coder%20logo%20transparent%20strip%20white.png?raw=true) | ![](https://github.com/coder/presskit/blob/main/logos/coder%20logo%20white%20square.png?raw=true) |
-| [PNG](https://github.com/coder/presskit/blob/main/logos/coder%20logo%20transparent%20strip%20white.png?raw=true) • SVG | [PNG](https://github.com/coder/presskit/blob/main/logos/coder%20logo%20white%20square.png?raw=true) • [SVG](https://github.com/coder/presskit/blob/main/logos/coder%20logo%20transparent%20black.svg?raw=true) |
+| Logo                                                                                                                                                                                                                | Symbol                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://github.com/coder/presskit/blob/main/logos/coder_logo_transparent_strip_black.png?raw=true)                                                                                                              | ![](https://github.com/coder/presskit/blob/main/logos/coder_logo_black_square.png?raw=true)                                                                                                        |
+| [PNG](https://github.com/coder/presskit/blob/main/logos/coder_logo_transparent_strip_black.png?raw=true) • [SVG](https://github.com/coder/presskit/blob/main/logos/coder_logo_transparent_strip_black.svg?raw=true) | [PNG](https://github.com/coder/presskit/blob/main/logos/coder_logo_black_square.png?raw=true) • SVG                                                                                                |
+| ![](https://github.com/coder/presskit/blob/main/logos/coder_logo_transparent_strip_white.png?raw=true)                                                                                                              | ![](https://github.com/coder/presskit/blob/main/logos/coder_logo_white_square.png?raw=true)                                                                                                        |
+| [PNG](https://github.com/coder/presskit/blob/main/logos/coder_logo_transparent_strip_white.png?raw=true) • SVG                                                                                                      | [PNG](https://github.com/coder/presskit/blob/main/logos/coder_logo_white_square.png?raw=true) • [SVG](https://github.com/coder/presskit/blob/main/logos/coder_logo_transparent_black.svg?raw=true) |
 
 ## Typography
 
@@ -40,6 +39,5 @@
 ## Color Palette
 
 Our color palette can be found [here](https://codepen.io/hkfoster/pen/YzeYRwR).
-
 
 ![](https://github.com/coder/presskit/blob/main/color-palette.png)
